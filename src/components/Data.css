@@ -1,0 +1,49 @@
+.main{
+    background-color: lightcyan;
+    width: 100vw;
+    height: 100vh;
+}
+.title{
+    text-align: center;
+    padding-top: 20px;
+}
+.username{
+    padding-left: 50px;
+    color: black;
+}
+.id{
+    padding-left: 50px;
+}
+.logoutBtn{
+    margin-left: 85%;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+table{
+    /* border: 2px solid black; */
+    margin: 20px auto;
+    width: 60%;
+    height: 60%;
+}
+tr{
+    text-align: center;
+}
+.tabHead{
+    background-color: aqua;
+    border-radius: 5px;
+}
+.content{
+    background-color: salmon;
+}
+tr button{
+    width: 50px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+}
